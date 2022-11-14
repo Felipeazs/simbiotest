@@ -51,59 +51,59 @@
             "id": "2",
             "preguntas": [
                 {
-                    "id": "1",
+                    "id": "11",
                     "pregunta": "¿Cómo demuestra la alta dirección liderazgo y compromiso con la innovación? ¿Se fomenta una cultura de innovación a todos lod niveles?"
                 },
                 {
-                    "id": "2",
+                    "id": "12",
                     "pregunta": "¿Se entienden las necesidades, deseos, expectativas y niveles actuales de satisfacción de los clientes?"
                 },
                 {
-                    "id": "3",
+                    "id": "13",
                     "pregunta": "¿Se ha considerado la economía circular como partde de la innovación? ¿Se han determinado objetivos claros de economía circular? ¿Hasta qué punto la economía circular forma parte de su estrategia de negocio/modelo de negocio existente?"
                 },
                 {
-                    "id": "4",
+                    "id": "14",
                     "pregunta": "¿Cómo gestiona los diferentes tipos de innovación dentro de su organización (por ejemplo, proceso, producto o servicio, modelo de negocio)?"
                 },
                 {
-                    "id": "5",
+                    "id": "15",
                     "pregunta": "¿La innovación será individual o colaborativa, abierta o cerrada?"
                 },
                 {
-                    "id": "6",
+                    "id": "16",
                     "pregunta": "¿Ha determinado/considerado la necesidad de proteger la propiedad intelectual o está felliz de abrir el código? ¿Ha considerado las implicaciones legales?"
                 },
                 {
-                    "id": "7",
+                    "id": "17",
                     "pregunta": "¿Cómo determinar y seleccionar oportuniudades de mejora e implementar los cambios necesarios para cumplir con estos requisitos?"
                 },
                 {
-                    "id": "8",
+                    "id": "18",
                     "pregunta": "¿Cómo cumplirán las decisiones y actividades asociadas con sus objetivos de economía circular los requisitos actuales de los clientes, así como sus necesidades y expectativas futuras?"
                 },
                 {
-                    "id": "9",
+                    "id": "19",
                     "pregunta": "¿Entiende cómo sus decisiones y actividades pueden ser nuevas o tranformadoras o son mejoras a los arreglos existentes?"
                 },
                 {
-                    "id": "10",
+                    "id": "20",
                     "pregunta": "¿Ha identificado qué organizaciones dentro de su cadena de valor son clave para lograr sus objetivod de economía circular?"
                 },
                 {
-                    "id": "11",
+                    "id": "21",
                     "pregunta": "¿Ha considerado los plazos para la implementación?"
                 },
                 {
-                    "id": "12",
+                    "id": "22",
                     "pregunta": "¿Qué procesos se han implementado para garantizar el éxito de la gestión del cambio?"
                 },
                 {
-                    "id": "13",
+                    "id": "23",
                     "pregunta": "¿Cómo monitorea y revisa la creación de valor y la innovación continua?"
                 },
                 {
-                    "id": "14",
+                    "id": "24",
                     "pregunta": "¿Cómo se capturan las lecciones aprendidas y cómo se actúa sobre ellas? ¿Adopta la organización una cultura de aprender del fracaso?"
                 }
             ]
@@ -113,43 +113,43 @@
             "id": "3",
             "preguntas": [
                 {
-                    "id": "1",
+                    "id": "25",
                     "pregunta": "¿La gerencia de alto nivel demuestra suficientemente liderazgo y compromiso con respecto a asumir la responsabilidad de sus decisiones y actividades?"
                 },
                 {
-                    "id": "2",
+                    "id": "26",
                     "pregunta": "¿Cómo son relevantes los recursos para su organización? ¿De qué recursos depende más su modelo de negocio actual?"
                 },
                 {
-                    "id": "3",
+                    "id": "27",
                     "pregunta": "¿Se han determinado/evaluado los riesgos y oportunidades económicos, ambientales y sociales actuales y futuros asociados con el uso de recursos en toda su dacena de valor? ¿Cómo afectan esto a su capacidad para crear, entregar y capturar valor comercial a largo plazo?"
                 },
                 {
-                    "id": "4",
+                    "id": "28",
                     "pregunta": "¿Se conocen y comprenden los problemas asociados con los ingredientes químicos que representan un riesgo significativo para la salud humana y/o el medio ambiente y se eliminan o mitigan cuando sea prosible?"
                 },
                 {
-                    "id": "5",
+                    "id": "29",
                     "pregunta": "¿Las decisiones y acribidades asociadas con sus objetivos de economía circular cambiarán los riesgos y oportunidades actuales y futuros de los recursos?"
                 },
                 {
-                    "id": "6",
+                    "id": "30",
                     "pregunta": "¿Se han tomado mediddas parar mitigarlos riesgos y oportunidades de recursos durante el abastecimiento, la fabricación, la distribución, el uso o la gestión de la vida útil?"
                 },
                 {
-                    "id": "7",
+                    "id": "31",
                     "pregunta": "¿Cómo se asumirá ls responsabilidad de abordar los impactos aguas arriba y aguas abajo?"
                 },
                 {
-                    "id": "8",
+                    "id": "32",
                     "pregunta": "¿Cómo mejoran sus iniciativas las necesidades y expectativas de sus clientes de una manera que mejore la calidad de vida de las personas y las comunidades?"
                 },
                 {
-                    "id": "9",
+                    "id": "33",
                     "pregunta": "¿Se requerirá capacitación para garantizar que el producto o servicio se use de manera eficiente?"
                 },
                 {
-                    "id": "10",
+                    "id": "34",
                     "pregunta": "¿Qué estrategiasy planes existen para la gestión de productos ymateriales al final de su uso/vida útil? ¿Cuál es su paoel en la entrega de estas estrategias y planes?"
                 }
             ]
@@ -159,79 +159,79 @@
             "id": "4",
             "preguntas": [
                 {
-                    "id": "1",
+                    "id": "35",
                     "pregunta": "¿Cómo le ayudará la colaboración a hacer la transición a un modo de operación más circular y sostenible?"
                 },
                 {
-                    "id": "2",
+                    "id": "36",
                     "pregunta": "¿Qué papel jugará la colaboración en al innovación?"
                 },
                 {
-                    "id": "3",
+                    "id": "37",
                     "pregunta": "¿Cuenta con el apoyo y el compromiso de la dirección de primer nivel para el trabajo colaborativo?"
                 },
                 {
-                    "id": "4",
+                    "id": "38",
                     "pregunta": "¿Ha considerado colaboraciones fuera de su grupo de pared habitual? (Por ejemplo, colaboraciones con organismos académicos, sociedad civil, competidores, consejos de investigación, partes interesadas, asociaciones comerciales, organismos profesionales, organismos de normalización)"
                 },
                 {
-                    "id": "5",
+                    "id": "39",
                     "pregunta": "¿La colaboración cambiaría la gestión de los tiesgos y oportunidades de recursos?"
                 },
                 {
-                    "id": "6",
+                    "id": "40",
                     "pregunta": "¿Cuál es la política sobre el intercambio de información y datos relevantes con los socios?"
                 },
                 {
-                    "id": "7",
+                    "id": "41",
                     "pregunta": "¿Se han identificado posibles organizaciones colaborativas en relación con sus objetivos de economía circular?"
                 },
                 {
-                    "id": "8",
+                    "id": "42",
                     "pregunta": "¿Se han identificado toas las relaciones actuales significativas?"
                 },
                 {
-                    "id": "9",
+                    "id": "43",
                     "pregunta": "¿Es la estructura organizativa adecuada y capaz de proprcionar la flexibilidad necesaria para el trabajo colaborativo?"
                 },
                 {
-                    "id": "10",
+                    "id": "44",
                     "pregunta": "¿Cómo se implementarán los programas de colaboración, incluida la educación, la capacitación y la contratación?"
                 },
                 {
-                    "id": "11",
+                    "id": "45",
                     "pregunta": "¿Tiene un proceso para la selección de socios?"
                 },
                 {
-                    "id": "12",
+                    "id": "46",
                     "pregunta": "¿Se ha evaludado el valor de cada relación en el contexto de sus objetivos de economía circular?"
                 },
                 {
-                    "id": "13",
+                    "id": "47",
                     "pregunta": "¿Se han seleccionado todos los socios de acuerdo con criterios?"
                 },
                 {
-                    "id": "14",
+                    "id": "48",
                     "pregunta": "¿Cómo apoya la gobernanza el trabajo colaborativo?"
                 },
                 {
-                    "id": "15",
+                    "id": "49",
                     "pregunta": "¿Entiendes cómo se crea valor a través de la colaboracion?"
                 },
                 {
-                    "id": "16",
+                    "id": "50",
                     "pregunta": "¿Ha identificado problemas y áreas de mejora?"
                 },
                 {
-                    "id": "17",
+                    "id": "51",
                     "pregunta": "¿Entiendes cómo se gestionan las relaciones?"
                 },
                 {
-                    "id": "18",
+                    "id": "52",
                     "pregunta": "¿Sabes cómo es el éxito?"
                 },
                 {
-                    "id": "19",
+                    "id": "53",
                     "pregunta": "¿Tiene una estrategia de salida conjunta acordada para cada una de sus relaciones de colaboración?"
                 }
             ]
@@ -241,55 +241,55 @@
             "id": "5",
             "preguntas": [
                 {
-                    "id": "1",
+                    "id": "54",
                     "pregunta": "¿Cómo se diseñan los productos, componentes y materiales para mantenerse en su valor y utilidad más altos en todo momento?"
                 },
                 {
-                    "id": "2",
+                    "id": "55",
                     "pregunta": "¿Cómo se considera el valor de la reutilización o el reciclaje a nivel de material, tanto antes y después del uso del producto como a nivel del producto?"
                 },
                 {
-                    "id": "3",
+                    "id": "56",
                     "pregunta": "¿El diseño de algún producto permite el desmontaje y la separación de componentes y materiales en end of life?"
                 },
                 {
-                    "id": "4",
+                    "id": "57",
                     "pregunta": "¿Se han diseñado productos/servicios para maximizar la extensión de la vida útil del producto o servicio?"
                 },
                 {
-                    "id": "5",
+                    "id": "58",
                     "pregunta": "¿Has estimado los beneficios económicos para la economía circular?"
                 },
                 {
-                    "id": "6",
+                    "id": "59",
                     "pregunta": "¿Cómo se comunican los requisitos de optimización de valor a la cadena de suministro y se tienen en cuenta en los acuerdos de abastecimiento/adquisición y monitoreo posterior al contrato?"
                 },
                 {
-                    "id": "7",
+                    "id": "60",
                     "pregunta": "¿Cómo se evitan los residuos durante las actividades de fabricación y distribución?"
                 },
                 {
-                    "id": "8",
+                    "id": "61",
                     "pregunta": "¿Qué estrategias se han adoptado para prolongar la vida útil de los productos, componentes y materiales (por ejemplo, garantías extendidas, planificación de estandarización y compatibilidad, deseñados para ser actualizables, piezas y componentes que se pueden separar y ensamblar fácilmente)?"
                 },
                 {
-                    "id": "9",
+                    "id": "62",
                     "pregunta": "¿Has pensado en lo que sucede con tus productos al final de la fase de uso?"
                 },
                 {
-                    "id": "10",
+                    "id": "63",
                     "pregunta": "¿Otra parte obtiene valor de su producto al final de la fase de uso?"
                 },
                 {
-                    "id": "11",
+                    "id": "64",
                     "pregunta": "¿Ha existido una presunción contra el uso de la recuperación y eliminación de energía al final de la fase de uso?"
                 },
                 {
-                    "id": "12",
+                    "id": "65",
                     "pregunta": "¿Los componentes y materiales pueden separarse en corrientes manejables y no contaminadas para facilitar la reutilización y el reciclaje?"
                 },
                 {
-                    "id": "13",
+                    "id": "66",
                     "pregunta": "¿Se puede acceder a la información y los datos relevantes para garantizar que los productos, componentes y materiales puedan gestionarse adecuadamente en end of life?"
                 }
             ]
@@ -299,51 +299,51 @@
             "id": "6",
             "preguntas": [
                 {
-                    "id": "1",
+                    "id": "67",
                     "pregunta": "¿Se ha mapeado el uso de recursos dentro de su cadena de valor, incluidas las ubicaciones de abastecimiento y producción?"
                 },
                 {
-                    "id": "2",
+                    "id": "68",
                     "pregunta": "¿Ha determinado la composición completa de materiales e ingredientes químicos en sus productos, materiales y componentes y los procesos de fabricación utilizados para crearlos?"
                 },
                 {
-                    "id": "3",
+                    "id": "69",
                     "pregunta": "¿Cómo se hace accesible la información relevante para la gestión sostenible de los recursos en productos y servicios?"
                 },
                 {
-                    "id": "4",
+                    "id": "70",
                     "pregunta": "¿Qué obligaciones de transparencia ha impuesto a sus proveedores u otras organizaciones en su cadena de valor más amplia?"
                 },
                 {
-                    "id": "5",
+                    "id": "71",
                     "pregunta": "¿Cómo se consideran y responden oportunamente las opiniones razonables o las solicitudes de información adicional?"
                 },
                 {
-                    "id": "6",
+                    "id": "72",
                     "pregunta": "¿Cómo se relaciona con las partes interesadas que hablan diferentes idiomas?"
                 },
                 {
-                    "id": "7",
+                    "id": "73",
                     "pregunta": "¿Cómo se pueden utilizar eficazmente las nuevas tecnologías para aumentar la transparencia?"
                 },
                 {
-                    "id": "8",
+                    "id": "74",
                     "pregunta": "¿Qué tan transparente es usted sobre los materiales y productos químicos utilizados y contenidos con sus productos?"
                 },
                 {
-                    "id": "9",
+                    "id": "75",
                     "pregunta": "¿Las instrucciones para el uso adecuado se proprcionan en un idioma y forma comprensibles para los usuarios?"
                 },
                 {
-                    "id": "10",
+                    "id": "76",
                     "pregunta": "¿Se proprciona información escrita o visual con y en todos los envases o productos sobre problemas conocidos (por ejemplo, peligros relacionados con el medio ambiente o la salud humana) asociados con el producto?"
                 },
                 {
-                    "id": "11",
+                    "id": "77",
                     "pregunta": "¿Las instrucciones sobre la gestión de endoflife se proprcionan en un idioma y forma comprensibles para los usuarios?"
                 },
                 {
-                    "id": "12",
+                    "id": "78",
                     "pregunta": "¿Alguna afirmación hecha sobre su producto es precisa, clara y defendible? ¿#se enfrentarían al escrutinio independiente?"
                 }
             ]

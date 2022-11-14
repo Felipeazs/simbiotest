@@ -1,10 +1,35 @@
-import { useState } from 'react'
+import { useState, FormEvent, ChangeEvent } from 'react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
 import data from '../public/data/preguntas.json'
 
+interface FormularioProps {
+    pregunta: string
+    valor: string
+}
 export default function Home() {
+    const [formulario, setFormulario] = useState<FormularioProps[]>([{ pregunta: '', valor: '' }])
+
+    const changeHandler = (event: ChangeEvent<HTMLInputElement>) => {
+
+        setFormulario(prevState =>
+            [...prevState, { pregunta: event.target.name, valor: event.target.value }])
+    }
+
+    const submitHandler = (event: FormEvent) => {
+        event.preventDefault()
+
+        for (let i = 0; i < 78; i++) {
+            if (formulario[i]) {
+                console.log(formulario[i])
+            } else {
+                console.log('por favor, ingrese todas las preguntas')
+                return
+            }
+        }
+    }
+
 
     return (
         <div className={styles.container}>
@@ -15,29 +40,31 @@ export default function Home() {
             </Head>
 
             <main className={styles.main}>
-                {data.preguntas.map(item => (
-                    <>
-                        <p key={item.id}>{item.tema}</p>
-                        {item.preguntas.map((item, i) =>
-                            <div key={item.id} className={styles.preguntas}>
-                                <p className={styles.preguntas}>{i + 1} - {item.pregunta}</p>
-                                <div className={styles.radio}>
-                                    <div>
-                                        <label htmlFor='sí'>Sí</label>
-                                        <input type='radio' id="sí" name={item.id} />
-                                    </div>
-                                    <div>
-                                        <label htmlFor='no'>No</label>
-                                        <input type='radio' id="no" name={item.id} />
+                <form onSubmit={submitHandler}>
+                    {data.preguntas.map(item => (
+                        <>
+                            <p key={item.id}>{item.tema}</p>
+                            {item.preguntas.map((item) =>
+                                <div key={item.id} className={styles.preguntas}>
+                                    <p className={styles.preguntas}>{item.id} - {item.pregunta}</p>
+                                    <div className={styles.radio}>
+                                        <div>
+                                            <label htmlFor='sí'>Sí</label>
+                                            <input type='radio' id="sí" name={item.id} value={1} onChange={changeHandler} />
+                                        </div>
+                                        <div>
+                                            <label htmlFor='no'>No</label>
+                                            <input type='radio' id="no" name={item.id} value={0} onChange={changeHandler} />
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        )}
-                    </>
-                )
-                )}
+                            )}
+                        </>
+                    ))}
+                    <button type="submit">Ingresar</button>
+                </form>
             </main>
 
-        </div>
+        </div >
     )
 }
