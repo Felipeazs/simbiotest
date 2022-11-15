@@ -1,3 +1,58 @@
-
-
-
+{
+    "data": [
+        {
+            "pensamiento": [
+                "No hay pensamiento sistémico evidente dentro de la organización.",
+                "La organización ha comenzado a aplicar técnicas de pensamiento sistémico en relación con la gestiónde recursos.",
+                "La visión organizacional para la actividad de la economía circular está al menos parcialmente desarrollada, con la aceptación y el pensamiento de la gerencia de alto nivel sobre cómo la gestión de recursos se relaciona con la cadena de valor o el sistema más amplio.",
+                "El pensamiento sistémico reconocido como clave para explorar diferentes perspectivas, vínculos de causalidad y retroalimentación relacionada con el progreso de la visión, estrategia y objetivos de la economía cicular.",
+                "La organización puede demostrar que aplica rutinariamente el pensamiento sistémico a la toma de decisiones y actividades de economía circular y está invirtiendo en esta área a largo-plazo (por ejemplo, capacitación del personal, medidas claras basadas en resultados)."
+            ]
+        },
+        {
+            "innovacion": [
+                "La innovación dentro de la organización es limitada y esporádica con poca intereacción más allá de la propia organización.",
+                "La organización ha comenzado a reconocer la oportunidad de la innovación de la economía circular y ha creado algunos vínculos con las necesidades de los clientes y la estrategia comercial futura.",
+                "La alta dirección está comprometida con la innovación y la organización ha comenzado a reconocer la necesidad de integrar las necesidades de las partes interesadas y la retroalimentación en el desarrollo de actividades de economía circular.",
+                "La innovación en la economía circular se establece en la organización y existen estructuras para garantizar que los aportes de la cadena de valor se incorporen al sistema con una gobernanza activa relacionada con la innovación (por ejemple, implicaciones legales / PI, interccambio de ideas).",
+                "La organización puede demostrar que ha fomentado una cultura de innovación para crear valor empresaarial a través de la gestión sostenible de los recursos en productos y servicios y al menos ha comenzado a innovar su modelo de negocios"
+            ]
+        },
+        {
+            "gobernanza": [
+                "La organización se centra en abordar cuestiones de relaciones públicas/marketing y/o requisitos reglamentarios, pero no se centra realmente en la economía circular (por ejemplo, cumpli con las cormas para gestionar los residuos en el sitio y garantizar que existan contratos para el reciclaje y la eliminación).",
+                "Mejorar el conocimiento y la comprensión de los impactos ambientales y sociales directos e indirectos de la organización relacionados con la gestión de recursos.",
+                "Algunos riesgos y oportunidades ambientales y sociales relacionados con la gestión de recursos comienzan a considerarse en las decisiones y actividades. Poca gestión activa de los problemas má allá del control directo de la organización",
+                "Los riesgos y oportunidades ambientales y sociales relacionados con la gestión de recursos en toda la cadena de valor son conocidos y comprendidos por la organización. Las cuestiones clane se tienen en cuenta en las decisiones y actividades relevantes para la economía circular. Algunos programas en marcha para abordar cuestiones indirectas.",
+                "La organización puede demostrar que está gestionando avtivamente los impactos directos e indirectos de sus decisiones y actividades en toda la cadena de valor. Esto prodría incluir participar activamente en la industria o en al defensa y/o colaboraciones de múltiples partes interesadas poara abordar problemas sistémicos."
+            ]
+        },
+        {
+            "colaboracion": [
+                "Experiencia limitada de colaboración en la organización, con la mayoría de las intereacciones actuales relacionadas con los recursos centradas en los probeedores y basadas en la información sobre el tipo de materiales utilizados parar entregar productos/servicios.",
+                "Se ha tenido en cuenta, en toda la organización, cómo la empresa colabora con otras partes en relación con su exploración de la economía cirular; Es probable que esto se limite a proveedores, clientes, otros en el sector.",
+                "La organización tiene todos los elementos clave de un enfoque colaborativo funcional para apoyar sus iniciativas de circularidad, pero su aplicación es parcial tant entre las partes interesadas internas como con otras partes en su cadena de valor.",
+                "La colaboración relacionada con la economía circular está opertacionalizada y las colaboraciones activas se pueden identificar y son conocidas en toda la empresa.",
+                "La organización puede demostrar que ha fomentado una cultura de colaboración interna y externa para avanzar en su visión, estrategia y objetivos de economía cicular. Existe un proceso activo para identificar socios, gobernar las relaciones en curso y evaluar su desempeño."
+            ]
+        },
+        {
+            "optimizacion": [
+                "La generación/optimización del valor organizacional se centra únicamente en los beneficios financieros, con poca o ninguna considración para optimizar la gestión de recursos a largo plazo.",
+                "La gestión de los recursos utilizados dentro de los productos y servicios de la organización se da cierta consideración, con un enfoque en el valor relacionado con el fin de uso (reciclabilidad) y la reducción del desperdicio.",
+                "La optimización del valor es reconocida por numerosas partes en toda la organización, con actividad en la mayoría de las fases (diseño, producción, uso y final de la vida útil).",
+                "La organización tine un enfoque activo para optimizar el valor. La consideración ha incluido el valor generado a otras partes a través de la gestión de recursos a nivel sistémico.",
+                "La organización puede demostrar que los productos, componentes y materiales se mantienen en su valor y utilidad más altos en todo momento."
+            ]
+        },
+        {
+            "transparencia": [
+                "El conocimiento y la comprensión de la organización sobre sus problemas de gestión de recursos son limitados y, cuando se conocen, no se difunden ampliemente, ni interna ni externamente.",
+                "Información sobre custiones clave de gestión de recursos relacionadas con aspectos de su cadena de valor comprendidos e información básica proporcionada sobre la reciclabilidad de algunos materiales suministrados a los clientes. ",
+                "Se reconoce la transparencia relacionada con el viaje de circularidad de la organización, incluso por parte de la gerencia de alto nivel. Sin embargo, la actividad tiende a permanecer pasiva o reactiva en lugar de proactiva.",
+                "La visibilidad de la información se planifica activamente en todas las actividades de gestión de recursos materiales y economía circular de la organización, con supervisión de gestión de alto nivel. La información del cliente se centra en la accesibilidad de la información de recursos para diferentes usuarios.",
+                "La organización puede demostrar que es totalmente abierta y transparente tanto en términos de recopilar y especificar información de los socios en las fases inciales como de promover el asesoramiento a las partes en las fases posteriores sobre los mejores enfoques para retener elvalor de los recursos al final del uso."
+            ]
+        }
+    ]
+}

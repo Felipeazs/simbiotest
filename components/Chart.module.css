@@ -1,0 +1,11 @@
+.table {
+    width: 100%;
+    margin: auto;
+    padding: 100px 150px;
+}
+.body tr {
+    height: 75px !important;
+}
+.body p {
+    width: 200px;
+}
